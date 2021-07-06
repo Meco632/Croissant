@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+}
+
+.croissant {
+  max-width: 400px;
+  display:block;
+  margin: auto;
+}
+
+body {
+    background-color: #94a7e6
+}
+
+.links {
+    text-align:center;
+}
